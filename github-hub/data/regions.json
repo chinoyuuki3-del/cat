@@ -1,0 +1,28 @@
+{
+  "regions": [
+    {
+      "id": "tokyo",
+      "name": "東京",
+      "country": "JP",
+      "shop": "tokyo.json"
+    },
+    {
+      "id": "osaka",
+      "name": "大阪",
+      "country": "JP",
+      "shop": "osaka.json"
+    },
+    {
+      "id": "hokkaido",
+      "name": "北海道",
+      "country": "JP",
+      "shop": "hokkaido.json"
+    },
+    {
+      "id": "okinawa",
+      "name": "沖縄",
+      "country": "JP",
+      "shop": "okinawa.json"
+    }
+  ]
+}
