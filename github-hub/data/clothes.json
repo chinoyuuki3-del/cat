@@ -1,0 +1,34 @@
+{
+  "clothes": [
+    {
+      "id": "raincoat_yellow",
+      "name": "黄色いレインコート",
+      "price": 250,
+      "currency": "walk",
+      "weather": "rain",
+      "layer": "body"
+    },
+    {
+      "id": "gold_cheat",
+      "name": "金のチート服",
+      "price": 100,
+      "currency": "catpay",
+      "layer": "body"
+    },
+    {
+      "id": "red_ribbon",
+      "name": "赤いリボン",
+      "price": 15,
+      "currency": "star",
+      "layer": "head"
+    },
+    {
+      "id": "winter_scarf",
+      "name": "冬のマフラー",
+      "price": 300,
+      "currency": "walk",
+      "weather": "snow",
+      "layer": "neck"
+    }
+  ]
+}
