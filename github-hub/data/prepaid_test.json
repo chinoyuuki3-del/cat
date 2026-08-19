@@ -1,0 +1,22 @@
+[
+  {
+    "serial": "CAT-100-TEST0001",
+    "value": 100,
+    "used": false
+  },
+  {
+    "serial": "CAT-300-TEST0002",
+    "value": 300,
+    "used": false
+  },
+  {
+    "serial": "CAT-500-TEST0003",
+    "value": 500,
+    "used": false
+  },
+  {
+    "serial": "CAT-1000-TEST0004",
+    "value": 1000,
+    "used": false
+  }
+]
