@@ -1,17 +1,10 @@
 {
-  "region": "osaka",
-  "shop": [
-    {
-      "id": "osaka_takoyaki_cushion",
-      "name": "たこ焼きクッション",
-      "price": 500,
-      "currency": "walk"
-    },
-    {
-      "id": "osaka_red_bandana",
-      "name": "大阪限定バンダナ",
-      "price": 18,
-      "currency": "star"
-    }
+  "region":"osaka",
+  "name":"大阪",
+  "items":[
+    {"id":"osaka_takoyaki_cushion","name":"たこ焼きクッション","price":500,"currency":"walk","category":"regional"},
+    {"id":"osaka_red_bandana","name":"大阪限定バンダナ","price":18,"currency":"star","category":"regional"},
+    {"id":"osaka_sign","name":"道頓堀風ねこ看板","price":75,"currency":"catpay","category":"regional"},
+    {"id":"osaka_snack","name":"ねこ粉ものセット","price":620,"currency":"walk","category":"regional"}
   ]
 }
