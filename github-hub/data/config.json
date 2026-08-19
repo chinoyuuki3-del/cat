@@ -1,11 +1,8 @@
 {
-  "version": "0.4",
-  "sale": false,
-  "saleName": "ねこセール",
-  "saleMessage": "対象商品20%OFF！",
-  "discountPercent": 20,
-  "notice": "Pixel Cat v0.4 modular test",
-  "dailyWalk": 100,
-  "dailyStars": 2,
-  "exchangeWalkToStar": 100
+  "dataVersion": 3,
+  "daily": {"walk":150,"star":3,"catpay":100},
+  "walkToStar": 100,
+  "sale": {"active":true,"name":"Hub強化セール","discountPercent":15},
+  "notice": "PixelCat v1.1 GitHub Hub online",
+  "features": {"serverShop":true,"serverCats":true,"serverClothes":true,"serverEvents":true,"regionalShop":true,"gifts":true}
 }
