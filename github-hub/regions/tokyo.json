@@ -1,17 +1,10 @@
 {
-  "region": "tokyo",
-  "shop": [
-    {
-      "id": "tokyo_hat",
-      "name": "東京限定キャップ",
-      "price": 20,
-      "currency": "star"
-    },
-    {
-      "id": "tokyo_tower_toy",
-      "name": "東京タワーおもちゃ",
-      "price": 450,
-      "currency": "walk"
-    }
+  "region":"tokyo",
+  "name":"東京",
+  "items":[
+    {"id":"tokyo_hat","name":"東京限定キャップ","price":20,"currency":"star","category":"regional"},
+    {"id":"tokyo_tower_toy","name":"東京タワーおもちゃ","price":450,"currency":"walk","category":"regional"},
+    {"id":"tokyo_neon","name":"東京ネオン看板","price":70,"currency":"catpay","category":"regional"},
+    {"id":"tokyo_sushi","name":"ねこ寿司セット","price":680,"currency":"walk","category":"regional"}
   ]
 }
