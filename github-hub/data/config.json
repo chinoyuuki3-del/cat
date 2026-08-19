@@ -1,0 +1,11 @@
+{
+  "version": "0.4",
+  "sale": false,
+  "saleName": "ねこセール",
+  "saleMessage": "対象商品20%OFF！",
+  "discountPercent": 20,
+  "notice": "Pixel Cat v0.4 modular test",
+  "dailyWalk": 100,
+  "dailyStars": 2,
+  "exchangeWalkToStar": 100
+}
