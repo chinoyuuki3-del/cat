@@ -1,27 +1,10 @@
 {
   "events": [
-    {
-      "id": "rain_walk",
-      "name": "雨のおさんぽ",
-      "type": "weather",
-      "weather": [
-        "rain",
-        "drizzle"
-      ],
-      "message": "雨の日イベント",
-      "reward": {
-        "walk": 150
-      },
-      "active": true
-    },
-    {
-      "id": "summer_limited_cat",
-      "name": "夏の限定猫",
-      "type": "limited_cat",
-      "start": "2026-07-01",
-      "end": "2026-08-31",
-      "catId": "summer_cat",
-      "active": true
-    }
+    {"id":"rain_find","name":"雨の日ボーナス","scene":"walk","weather":"rain","chance":55,"reward":{"walk":100}},
+    {"id":"snow_find","name":"雪の日ボーナス","scene":"walk","weather":"snow","chance":55,"reward":{"star":2}},
+    {"id":"star_find","name":"キラキラスター発見","scene":"walk","chance":35,"reward":{"star":1}},
+    {"id":"souvenir_find","name":"ご当地みやげ発見","scene":"walk","chance":45,"reward":{"souvenir":"regional"}},
+    {"id":"bonus_walk","name":"ボーナスおさんぽ","scene":"walk","chance":60,"reward":{"walk":50}},
+    {"id":"big_walk","name":"大当たりおさんぽ","scene":"walk","chance":12,"reward":{"walk":500}}
   ]
 }
