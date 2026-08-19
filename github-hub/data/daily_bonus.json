@@ -1,0 +1,25 @@
+{
+  "base": {
+    "walk": 100,
+    "star": 2,
+    "catpay": 100
+  },
+  "timeBonus": {
+    "morning": {
+      "walk": 50
+    },
+    "night": {
+      "star": 1
+    }
+  },
+  "streak": [
+    {
+      "day": 3,
+      "walk": 300
+    },
+    {
+      "day": 7,
+      "star": 10
+    }
+  ]
+}
