@@ -1,8 +1,14 @@
 {
-  "dataVersion": 3,
+  "dataVersion": 5,
   "daily": {"walk":150,"star":3,"catpay":100},
   "walkToStar": 100,
+  "prepaidPlans": [
+    {"value":100,"walk":1000,"star":10},
+    {"value":300,"walk":3000,"star":30},
+    {"value":500,"walk":5000,"star":50},
+    {"value":1000,"walk":10000,"star":100}
+  ],
   "sale": {"active":true,"name":"Hub強化セール","discountPercent":15},
-  "notice": "PixelCat v1.1 GitHub Hub online",
-  "features": {"serverShop":true,"serverCats":true,"serverClothes":true,"serverEvents":true,"regionalShop":true,"gifts":true}
+  "notice": "PixelCat v1.3 Prepaid Exchange online",
+  "features": {"serverShop":true,"serverCats":true,"serverClothes":true,"serverEvents":true,"regionalShop":true,"gifts":true,"prepaidExchange":true}
 }
