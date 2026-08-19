@@ -1,28 +1,8 @@
 {
   "regions": [
-    {
-      "id": "tokyo",
-      "name": "東京",
-      "country": "JP",
-      "shop": "tokyo.json"
-    },
-    {
-      "id": "osaka",
-      "name": "大阪",
-      "country": "JP",
-      "shop": "osaka.json"
-    },
-    {
-      "id": "hokkaido",
-      "name": "北海道",
-      "country": "JP",
-      "shop": "hokkaido.json"
-    },
-    {
-      "id": "okinawa",
-      "name": "沖縄",
-      "country": "JP",
-      "shop": "okinawa.json"
-    }
+    {"id":"tokyo","name":"東京","bbox":[35.45,35.95,139.45,139.95]},
+    {"id":"osaka","name":"大阪","bbox":[34.45,34.9,135.25,135.75]},
+    {"id":"hokkaido","name":"北海道","bbox":[41.3,45.7,139.3,145.9]},
+    {"id":"okinawa","name":"沖縄","bbox":[24.0,27.9,122.8,131.4]}
   ]
 }
