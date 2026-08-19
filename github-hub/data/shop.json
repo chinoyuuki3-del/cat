@@ -1,0 +1,137 @@
+[
+  {
+    "id": "toy_ball",
+    "name": "赤いボール",
+    "emoji": "●",
+    "price": 180,
+    "currency": "walk",
+    "category": "toy",
+    "saleEligible": true
+  },
+  {
+    "id": "toy_mouse",
+    "name": "ねずみのおもちゃ",
+    "emoji": "◆",
+    "price": 260,
+    "currency": "walk",
+    "category": "toy",
+    "saleEligible": true
+  },
+  {
+    "id": "toy_wand",
+    "name": "猫じゃらし",
+    "emoji": "╱",
+    "price": 420,
+    "currency": "walk",
+    "category": "toy",
+    "saleEligible": true
+  },
+  {
+    "id": "snack_fish",
+    "name": "おさかな",
+    "emoji": "<><",
+    "price": 120,
+    "currency": "walk",
+    "category": "food",
+    "saleEligible": true,
+    "repeat": true
+  },
+  {
+    "id": "snack_cookie",
+    "name": "ねこクッキー",
+    "emoji": "○",
+    "price": 160,
+    "currency": "walk",
+    "category": "food",
+    "saleEligible": true,
+    "repeat": true
+  },
+  {
+    "id": "bed_basic",
+    "name": "ふわふわベッド",
+    "emoji": "▭",
+    "price": 900,
+    "currency": "walk",
+    "category": "furniture",
+    "saleEligible": true
+  },
+  {
+    "id": "box",
+    "name": "段ボール箱",
+    "emoji": "□",
+    "price": 350,
+    "currency": "walk",
+    "category": "furniture",
+    "saleEligible": true
+  },
+  {
+    "id": "tower",
+    "name": "キャットタワー",
+    "emoji": "▥",
+    "price": 4000,
+    "currency": "walk",
+    "category": "furniture",
+    "saleEligible": true
+  },
+  {
+    "id": "star_bed",
+    "name": "星空ベッド",
+    "emoji": "★",
+    "price": 35,
+    "currency": "star",
+    "category": "furniture",
+    "saleEligible": true
+  },
+  {
+    "id": "cat_orange",
+    "name": "茶トラ",
+    "emoji": "CAT",
+    "price": 2500,
+    "currency": "walk",
+    "category": "cat",
+    "catType": "orange"
+  },
+  {
+    "id": "cat_black",
+    "name": "黒猫",
+    "emoji": "CAT",
+    "price": 3000,
+    "currency": "walk",
+    "category": "cat",
+    "catType": "black"
+  },
+  {
+    "id": "cat_white",
+    "name": "白猫",
+    "emoji": "CAT",
+    "price": 25,
+    "currency": "star",
+    "category": "cat",
+    "catType": "white"
+  },
+  {
+    "id": "cat_calico",
+    "name": "三毛猫",
+    "emoji": "CAT",
+    "price": 40,
+    "currency": "star",
+    "category": "cat",
+    "catType": "calico"
+  },
+  {
+    "id": "theme_space",
+    "name": "宇宙部屋テーマ",
+    "emoji": "SPACE",
+    "price": 120,
+    "currency": "catpay",
+    "category": "catpay"
+  },
+  {
+    "id": "bundle_deluxe",
+    "name": "豪華家具セット",
+    "emoji": "BOX",
+    "price": 300,
+    "currency": "catpay",
+    "category": "catpay"
+  }
+]
