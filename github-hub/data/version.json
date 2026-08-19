@@ -1,7 +1,7 @@
 {
-  "appVersion": "1.1",
-  "dataVersion": 3,
-  "latestFeatures": ["serverShop","serverCats","serverClothes","roulette","walkEvents","regions","souvenirs","gifts","dailyBonus","catpay"],
+  "appVersion": "1.2",
+  "dataVersion": 4,
+  "latestFeatures": ["serverShop","serverCats","serverClothes","roulette","walkEvents","regions","souvenirs","gifts","dailyBonus","catpay","catpayCardIssue","catpayHistory","catpayStore"],
   "updateAvailable": false,
-  "message": "PixelCat v1.1対応Hubデータです"
+  "message": "PixelCat v1.2 CAT Pay Card対応Hubデータです"
 }
