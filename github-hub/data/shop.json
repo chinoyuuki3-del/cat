@@ -1,137 +1,28 @@
-[
-  {
-    "id": "toy_ball",
-    "name": "赤いボール",
-    "emoji": "●",
-    "price": 180,
-    "currency": "walk",
-    "category": "toy",
-    "saleEligible": true
-  },
-  {
-    "id": "toy_mouse",
-    "name": "ねずみのおもちゃ",
-    "emoji": "◆",
-    "price": 260,
-    "currency": "walk",
-    "category": "toy",
-    "saleEligible": true
-  },
-  {
-    "id": "toy_wand",
-    "name": "猫じゃらし",
-    "emoji": "╱",
-    "price": 420,
-    "currency": "walk",
-    "category": "toy",
-    "saleEligible": true
-  },
-  {
-    "id": "snack_fish",
-    "name": "おさかな",
-    "emoji": "<><",
-    "price": 120,
-    "currency": "walk",
-    "category": "food",
-    "saleEligible": true,
-    "repeat": true
-  },
-  {
-    "id": "snack_cookie",
-    "name": "ねこクッキー",
-    "emoji": "○",
-    "price": 160,
-    "currency": "walk",
-    "category": "food",
-    "saleEligible": true,
-    "repeat": true
-  },
-  {
-    "id": "bed_basic",
-    "name": "ふわふわベッド",
-    "emoji": "▭",
-    "price": 900,
-    "currency": "walk",
-    "category": "furniture",
-    "saleEligible": true
-  },
-  {
-    "id": "box",
-    "name": "段ボール箱",
-    "emoji": "□",
-    "price": 350,
-    "currency": "walk",
-    "category": "furniture",
-    "saleEligible": true
-  },
-  {
-    "id": "tower",
-    "name": "キャットタワー",
-    "emoji": "▥",
-    "price": 4000,
-    "currency": "walk",
-    "category": "furniture",
-    "saleEligible": true
-  },
-  {
-    "id": "star_bed",
-    "name": "星空ベッド",
-    "emoji": "★",
-    "price": 35,
-    "currency": "star",
-    "category": "furniture",
-    "saleEligible": true
-  },
-  {
-    "id": "cat_orange",
-    "name": "茶トラ",
-    "emoji": "CAT",
-    "price": 2500,
-    "currency": "walk",
-    "category": "cat",
-    "catType": "orange"
-  },
-  {
-    "id": "cat_black",
-    "name": "黒猫",
-    "emoji": "CAT",
-    "price": 3000,
-    "currency": "walk",
-    "category": "cat",
-    "catType": "black"
-  },
-  {
-    "id": "cat_white",
-    "name": "白猫",
-    "emoji": "CAT",
-    "price": 25,
-    "currency": "star",
-    "category": "cat",
-    "catType": "white"
-  },
-  {
-    "id": "cat_calico",
-    "name": "三毛猫",
-    "emoji": "CAT",
-    "price": 40,
-    "currency": "star",
-    "category": "cat",
-    "catType": "calico"
-  },
-  {
-    "id": "theme_space",
-    "name": "宇宙部屋テーマ",
-    "emoji": "SPACE",
-    "price": 120,
-    "currency": "catpay",
-    "category": "catpay"
-  },
-  {
-    "id": "bundle_deluxe",
-    "name": "豪華家具セット",
-    "emoji": "BOX",
-    "price": 300,
-    "currency": "catpay",
-    "category": "catpay"
-  }
-]
+{
+  "items": [
+    {"id":"toy_ball","name":"赤いボール","price":180,"currency":"walk","category":"toy","sell":100},
+    {"id":"toy_mouse","name":"ねずみのおもちゃ","price":260,"currency":"walk","category":"toy","sell":150},
+    {"id":"toy_wand","name":"猫じゃらし","price":420,"currency":"walk","category":"toy","sell":230},
+    {"id":"toy_bell","name":"鈴ボール","price":520,"currency":"walk","category":"toy","sell":280},
+    {"id":"laser_toy","name":"レーザーおもちゃ","price":780,"currency":"walk","category":"toy","sell":420},
+    {"id":"feather_toy","name":"羽根のおもちゃ","price":640,"currency":"walk","category":"toy","sell":350},
+    {"id":"fish","name":"おさかな","price":120,"currency":"walk","category":"food","sell":60,"repeat":true},
+    {"id":"cookie","name":"ねこクッキー","price":160,"currency":"walk","category":"food","sell":80,"repeat":true},
+    {"id":"milk","name":"ねこミルク","price":220,"currency":"walk","category":"food","sell":110,"repeat":true},
+    {"id":"tuna","name":"高級ツナ缶","price":650,"currency":"walk","category":"food","sell":340,"repeat":true},
+    {"id":"salmon","name":"ごほうびサーモン","price":900,"currency":"walk","category":"food","sell":480,"repeat":true},
+    {"id":"bed","name":"ふわふわベッド","price":900,"currency":"walk","category":"furniture","sell":500},
+    {"id":"box","name":"段ボール箱","price":350,"currency":"walk","category":"furniture","sell":180},
+    {"id":"tower","name":"キャットタワー","price":4000,"currency":"walk","category":"furniture","sell":2200},
+    {"id":"sofa","name":"ねこソファ","price":1800,"currency":"walk","category":"furniture","sell":950},
+    {"id":"window","name":"窓辺クッション","price":1450,"currency":"walk","category":"furniture","sell":780},
+    {"id":"scratch_board","name":"つめとぎボード","price":720,"currency":"walk","category":"furniture","sell":390},
+    {"id":"star_bed","name":"星空ベッド","price":35,"currency":"star","category":"furniture","sellWalk":1200},
+    {"id":"moon_lamp","name":"月ランプ","price":28,"currency":"star","category":"furniture","sellWalk":900},
+    {"id":"cloud_cushion","name":"雲クッション","price":22,"currency":"star","category":"furniture","sellWalk":700},
+    {"id":"space_theme","name":"宇宙部屋テーマ","price":120,"currency":"catpay","category":"theme","sellWalk":1500},
+    {"id":"retro_theme","name":"レトロゲーム部屋","price":100,"currency":"catpay","category":"theme","sellWalk":1300},
+    {"id":"photo_frame","name":"限定フォトフレーム","price":80,"currency":"catpay","category":"decor","sellWalk":700},
+    {"id":"neon_sign","name":"ネオンCAT看板","price":90,"currency":"catpay","category":"decor","sellWalk":850}
+  ]
+}
