@@ -1,0 +1,32 @@
+[
+  {
+    "type": "walk",
+    "amount": 100,
+    "label": "100 おさんぽpt"
+  },
+  {
+    "type": "walk",
+    "amount": 300,
+    "label": "300 おさんぽpt"
+  },
+  {
+    "type": "walk",
+    "amount": 500,
+    "label": "500 おさんぽpt"
+  },
+  {
+    "type": "star",
+    "amount": 2,
+    "label": "スター2個"
+  },
+  {
+    "type": "star",
+    "amount": 5,
+    "label": "スター5個"
+  },
+  {
+    "type": "item",
+    "id": "snack_fish",
+    "label": "おさかな"
+  }
+]
