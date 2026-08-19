@@ -1,32 +1,13 @@
-[
-  {
-    "type": "walk",
-    "amount": 100,
-    "label": "100 おさんぽpt"
-  },
-  {
-    "type": "walk",
-    "amount": 300,
-    "label": "300 おさんぽpt"
-  },
-  {
-    "type": "walk",
-    "amount": 500,
-    "label": "500 おさんぽpt"
-  },
-  {
-    "type": "star",
-    "amount": 2,
-    "label": "スター2個"
-  },
-  {
-    "type": "star",
-    "amount": 5,
-    "label": "スター5個"
-  },
-  {
-    "type": "item",
-    "id": "snack_fish",
-    "label": "おさかな"
-  }
-]
+{
+  "rewards": [
+    {"type":"walk","amount":100,"label":"100おさんぽpt"},
+    {"type":"walk","amount":300,"label":"300おさんぽpt"},
+    {"type":"walk","amount":500,"label":"500おさんぽpt"},
+    {"type":"walk","amount":1000,"label":"1000おさんぽpt"},
+    {"type":"star","amount":2,"label":"スター2個"},
+    {"type":"star","amount":5,"label":"スター5個"},
+    {"type":"star","amount":10,"label":"スター10個"},
+    {"type":"catpay","amount":25,"label":"25 CAT"},
+    {"type":"catpay","amount":100,"label":"100 CAT"}
+  ]
+}
