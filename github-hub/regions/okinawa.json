@@ -1,17 +1,10 @@
 {
-  "region": "okinawa",
-  "shop": [
-    {
-      "id": "okinawa_shisa",
-      "name": "シーサー飾り",
-      "price": 700,
-      "currency": "walk"
-    },
-    {
-      "id": "okinawa_summer_shirt",
-      "name": "南国シャツ",
-      "price": 22,
-      "currency": "star"
-    }
+  "region":"okinawa",
+  "name":"沖縄",
+  "items":[
+    {"id":"okinawa_shisa","name":"シーサー飾り","price":700,"currency":"walk","category":"regional"},
+    {"id":"okinawa_summer_shirt","name":"南国シャツ","price":22,"currency":"star","category":"regional"},
+    {"id":"okinawa_shell_bed","name":"貝がらベッド","price":760,"currency":"walk","category":"regional"},
+    {"id":"okinawa_sunset_theme","name":"夕焼けビーチテーマ","price":85,"currency":"catpay","category":"regional"}
   ]
 }
