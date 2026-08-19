@@ -1,17 +1,10 @@
 {
-  "region": "hokkaido",
-  "shop": [
-    {
-      "id": "hokkaido_snow_cushion",
-      "name": "雪だるまクッション",
-      "price": 650,
-      "currency": "walk"
-    },
-    {
-      "id": "hokkaido_winter_hat",
-      "name": "冬帽子",
-      "price": 25,
-      "currency": "star"
-    }
+  "region":"hokkaido",
+  "name":"北海道",
+  "items":[
+    {"id":"hokkaido_snow_cushion","name":"雪だるまクッション","price":650,"currency":"walk","category":"regional"},
+    {"id":"hokkaido_winter_hat","name":"冬帽子","price":25,"currency":"star","category":"regional"},
+    {"id":"hokkaido_milk","name":"北海道ねこミルク","price":420,"currency":"walk","category":"regional"},
+    {"id":"hokkaido_ice_lamp","name":"氷のねこランプ","price":80,"currency":"catpay","category":"regional"}
   ]
 }
