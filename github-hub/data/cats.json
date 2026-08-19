@@ -1,0 +1,62 @@
+[
+  {
+    "id": "tuxedo",
+    "name": "ハチワレ",
+    "personality": "甘えん坊",
+    "color": "#2b2b2b"
+  },
+  {
+    "id": "orange",
+    "name": "茶トラ",
+    "personality": "元気",
+    "color": "#e98b32"
+  },
+  {
+    "id": "black",
+    "name": "黒猫",
+    "personality": "のんびり",
+    "color": "#171717"
+  },
+  {
+    "id": "white",
+    "name": "白猫",
+    "personality": "やさしい",
+    "color": "#f4f0e7"
+  },
+  {
+    "id": "calico",
+    "name": "三毛猫",
+    "personality": "気まぐれ",
+    "color": "#e0c9a7"
+  },
+  {
+    "id": "gray",
+    "name": "グレー",
+    "personality": "おっとり",
+    "color": "#8f9498"
+  },
+  {
+    "id": "cream",
+    "name": "クリーム",
+    "personality": "人なつこい",
+    "color": "#e8cf9a"
+  },
+  {
+    "id": "tabby",
+    "name": "キジトラ",
+    "personality": "好奇心旺盛",
+    "color": "#7d6951"
+  },
+  {
+    "id": "silver",
+    "name": "サバトラ",
+    "personality": "マイペース",
+    "color": "#9aa0a6"
+  },
+  {
+    "id": "socks",
+    "name": "靴下猫",
+    "personality": "遊び好き",
+    "color": "#414141"
+  }
+]
