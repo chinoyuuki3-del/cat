@@ -1,0 +1,13 @@
+{
+  "appVersion": "0.6",
+  "dataVersion": 1,
+  "latestFeatures": [
+    "regions",
+    "clothes",
+    "events",
+    "souvenirs",
+    "dailyBonus"
+  ],
+  "updateAvailable": false,
+  "message": "最新データです"
+}
