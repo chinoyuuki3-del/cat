@@ -1,0 +1,20 @@
+{
+  "cloudFormat": 1,
+  "started": true,
+  "name": "ミルク",
+  "catType": "tuxedo",
+  "walk": 1000,
+  "stars": 10,
+  "catpay": 0,
+  "steps": 0,
+  "ownedCats": [
+    "tuxedo"
+  ],
+  "inventory": {},
+  "usedPrepaid": [],
+  "cardId": "CATCARD-DEMO001",
+  "dailyDate": "",
+  "rouletteDate": "",
+  "requests": [],
+  "lastCloudSync": ""
+}
