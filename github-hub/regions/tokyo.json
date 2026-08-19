@@ -1,0 +1,17 @@
+{
+  "region": "tokyo",
+  "shop": [
+    {
+      "id": "tokyo_hat",
+      "name": "東京限定キャップ",
+      "price": 20,
+      "currency": "star"
+    },
+    {
+      "id": "tokyo_tower_toy",
+      "name": "東京タワーおもちゃ",
+      "price": 450,
+      "currency": "walk"
+    }
+  ]
+}
