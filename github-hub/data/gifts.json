@@ -1,0 +1,12 @@
+{
+  "gifts": [
+    {
+      "id": "welcome_001",
+      "name": "ウェルカムギフト",
+      "walk": 500,
+      "star": 5,
+      "once": true,
+      "active": true
+    }
+  ]
+}
