@@ -1,0 +1,17 @@
+{
+  "region": "okinawa",
+  "shop": [
+    {
+      "id": "okinawa_shisa",
+      "name": "シーサー飾り",
+      "price": 700,
+      "currency": "walk"
+    },
+    {
+      "id": "okinawa_summer_shirt",
+      "name": "南国シャツ",
+      "price": 22,
+      "currency": "star"
+    }
+  ]
+}
