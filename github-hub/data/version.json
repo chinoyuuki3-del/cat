@@ -1,13 +1,7 @@
 {
-  "appVersion": "0.6",
-  "dataVersion": 1,
-  "latestFeatures": [
-    "regions",
-    "clothes",
-    "events",
-    "souvenirs",
-    "dailyBonus"
-  ],
+  "appVersion": "1.1",
+  "dataVersion": 3,
+  "latestFeatures": ["serverShop","serverCats","serverClothes","roulette","walkEvents","regions","souvenirs","gifts","dailyBonus","catpay"],
   "updateAvailable": false,
-  "message": "最新データです"
+  "message": "PixelCat v1.1対応Hubデータです"
 }
