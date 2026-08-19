@@ -1,5 +1,6 @@
 {
   "items": [
+    {"id":"catpay_card","name":"CAT Payデジタルカード","price":0,"currency":"walk","category":"catpay_card","sell":0},
     {"id":"toy_ball","name":"赤いボール","price":180,"currency":"walk","category":"toy","sell":100},
     {"id":"toy_mouse","name":"ねずみのおもちゃ","price":260,"currency":"walk","category":"toy","sell":150},
     {"id":"toy_wand","name":"猫じゃらし","price":420,"currency":"walk","category":"toy","sell":230},
