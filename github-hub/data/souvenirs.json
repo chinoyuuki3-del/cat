@@ -1,0 +1,28 @@
+{
+  "souvenirs": [
+    {
+      "id": "tokyo_tower_toy",
+      "name": "東京タワーおもちゃ",
+      "region": "tokyo",
+      "rarity": "normal"
+    },
+    {
+      "id": "osaka_takoyaki_cushion",
+      "name": "たこ焼きクッション",
+      "region": "osaka",
+      "rarity": "normal"
+    },
+    {
+      "id": "hokkaido_snow_cushion",
+      "name": "雪だるまクッション",
+      "region": "hokkaido",
+      "rarity": "rare"
+    },
+    {
+      "id": "okinawa_shisa",
+      "name": "シーサー飾り",
+      "region": "okinawa",
+      "rarity": "rare"
+    }
+  ]
+}
