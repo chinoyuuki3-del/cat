@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "id": "found_walk",
+      "scene": "walk",
+      "chance": 20,
+      "reward": {
+        "walk": 50
+      }
+    },
+    {
+      "id": "found_star",
+      "scene": "walk",
+      "chance": 5,
+      "reward": {
+        "star": 1
+      }
+    },
+    {
+      "id": "found_souvenir",
+      "scene": "walk",
+      "chance": 3,
+      "reward": {
+        "souvenir": "regional"
+      }
+    }
+  ]
+}
