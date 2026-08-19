@@ -1,12 +1,7 @@
 {
   "gifts": [
-    {
-      "id": "welcome_001",
-      "name": "ウェルカムギフト",
-      "walk": 500,
-      "star": 5,
-      "once": true,
-      "active": true
-    }
+    {"id":"welcome","name":"ウェルカムギフト","message":"PixelCatへようこそ！","walk":500,"star":5,"catpay":50,"once":true,"active":true},
+    {"id":"summer_2026","name":"夏のスペシャルギフト","message":"夏ねことおでかけしよう！","walk":800,"star":8,"catpay":80,"once":true,"active":true,"start":"2026-08-01","end":"2026-08-31"},
+    {"id":"hub_upgrade_001","name":"Hubアップグレード記念","message":"ギフトHub強化記念！","walk":1000,"star":10,"catpay":100,"once":true,"active":true}
   ]
 }
