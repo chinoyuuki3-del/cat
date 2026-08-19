@@ -1,0 +1,17 @@
+{
+  "region": "hokkaido",
+  "shop": [
+    {
+      "id": "hokkaido_snow_cushion",
+      "name": "雪だるまクッション",
+      "price": 650,
+      "currency": "walk"
+    },
+    {
+      "id": "hokkaido_winter_hat",
+      "name": "冬帽子",
+      "price": 25,
+      "currency": "star"
+    }
+  ]
+}
