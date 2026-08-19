@@ -1,0 +1,27 @@
+{
+  "events": [
+    {
+      "id": "rain_walk",
+      "name": "雨のおさんぽ",
+      "type": "weather",
+      "weather": [
+        "rain",
+        "drizzle"
+      ],
+      "message": "雨の日イベント",
+      "reward": {
+        "walk": 150
+      },
+      "active": true
+    },
+    {
+      "id": "summer_limited_cat",
+      "name": "夏の限定猫",
+      "type": "limited_cat",
+      "start": "2026-07-01",
+      "end": "2026-08-31",
+      "catId": "summer_cat",
+      "active": true
+    }
+  ]
+}
