@@ -1,0 +1,17 @@
+{
+  "region": "osaka",
+  "shop": [
+    {
+      "id": "osaka_takoyaki_cushion",
+      "name": "たこ焼きクッション",
+      "price": 500,
+      "currency": "walk"
+    },
+    {
+      "id": "osaka_red_bandana",
+      "name": "大阪限定バンダナ",
+      "price": 18,
+      "currency": "star"
+    }
+  ]
+}
