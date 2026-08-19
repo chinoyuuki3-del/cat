@@ -1,34 +1,13 @@
 {
   "clothes": [
-    {
-      "id": "raincoat_yellow",
-      "name": "黄色いレインコート",
-      "price": 250,
-      "currency": "walk",
-      "weather": "rain",
-      "layer": "body"
-    },
-    {
-      "id": "gold_cheat",
-      "name": "金のチート服",
-      "price": 100,
-      "currency": "catpay",
-      "layer": "body"
-    },
-    {
-      "id": "red_ribbon",
-      "name": "赤いリボン",
-      "price": 15,
-      "currency": "star",
-      "layer": "head"
-    },
-    {
-      "id": "winter_scarf",
-      "name": "冬のマフラー",
-      "price": 300,
-      "currency": "walk",
-      "weather": "snow",
-      "layer": "neck"
-    }
+    {"id":"raincoat_yellow","name":"黄色いレインコート","price":250,"currency":"walk","weather":"rain","layer":"body"},
+    {"id":"gold_cheat","name":"金のチート服","price":100,"currency":"catpay","layer":"body"},
+    {"id":"red_ribbon","name":"赤いリボン","price":15,"currency":"star","layer":"head"},
+    {"id":"winter_scarf","name":"冬のマフラー","price":300,"currency":"walk","weather":"snow","layer":"neck"},
+    {"id":"travel_hat","name":"おでかけ帽子","price":450,"currency":"walk","layer":"head"},
+    {"id":"hoodie","name":"ねこパーカー","price":700,"currency":"walk","layer":"body"},
+    {"id":"blue_collar","name":"青い首輪","price":240,"currency":"walk","layer":"neck"},
+    {"id":"star_crown","name":"スタークラウン","price":35,"currency":"star","layer":"head"},
+    {"id":"space_suit","name":"宇宙ねこスーツ","price":140,"currency":"catpay","layer":"body"}
   ]
 }
